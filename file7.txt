@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: B053-0DD9
+
+ Directorio de C:\Users\karlo\gsp_damb\MyLastRepo\MyRepository
+
+08/11/2022  18:46    <DIR>          .
+08/11/2022  18:44    <DIR>          ..
+08/11/2022  18:46                 2 file3.txt
+08/11/2022  18:46                 0 file7.txt
+08/11/2022  18:44                39 README.md
+08/11/2022  18:44                 7 test.txt
+               4 archivos             48 bytes
+               2 dirs  268.782.489.600 bytes libres
